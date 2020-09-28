@@ -1,4 +1,4 @@
-// This is test comment1
+// This is test comment
 public with sharing class PagedResult {
     @AuraEnabled
     public Integer pageSize { get; set; }
